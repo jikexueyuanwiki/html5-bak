@@ -30,15 +30,19 @@
   * [介绍](web_intro.md)
   * [localStroage](web_localStroage.md)
   * [sessionstroage](web_sessionstroage.md)
+* 9.应用缓存 
+  * [介绍](cache_intro.md)
+  * [实现缓存](cache_ achieve.md)
+  * [Manifest文件](cache_manifest.md)
+  * [更新缓存及完整的MANIFEST文件](cache_update.md)
+* 10.Web Workers
+  * [介绍](web_workers_intro.md)
+  * [Web Workers的创建](web_workers_create.md)
+* 11.服务器推送事件 
   * [](.md)
   * [](.md)
   * [](.md)
-  * [](.md)
-* 9.页面布局（多栏布局）  
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
+* 12.应用缓存  
   * [](.md)
   * [](.md)
   * [](.md)
