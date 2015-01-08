@@ -11,12 +11,7 @@
   * [编解码工具](video_ffmpeg.md)
 * 3.音频
   * [介绍](audio_intro.md.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
+  * [标签及应用](audio_label.md.md)
 * 4.CSS3 背景 
   * [](.md)
   * [](.md)
