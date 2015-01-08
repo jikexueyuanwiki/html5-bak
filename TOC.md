@@ -18,32 +18,18 @@
 * 5.Canvas 标签 
   * [介绍](canvas_intro.md)
   * [创建canvas标签](canvas_create.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-* 6.CSS3 颜色 
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-* 7.CSS3 盒子模型 
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-
-* 8.CSS3 动画 
-  * [](.md)
-  * [](.md)
-  * [](.md)
+  * [利用canvas标签绘制图形](canvas_picture.md)
+* 6.SVG 
+  * [介绍](svg_intro.md)
+  * [绘制矢量图形](svg_picture.md)
+  * [引入外部SVG文件](svg_out.md)
+* 7.地理定位
+  * [介绍](geolocation_intro.md)
+  * [使用geolocation API](geolocation_api.md)
+* 8.Web 存储
+  * [介绍](web_intro.md)
+  * [localStroage](web_localStroage.md)
+  * [sessionstroage](web_sessionstroage.md)
   * [](.md)
   * [](.md)
   * [](.md)
