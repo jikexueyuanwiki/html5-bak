@@ -1,6 +1,6 @@
 # 引入外部SVG文件
 
-例：
+例：引入一个名为svg的外部文件
 
 ```javascript
 <!DOCTYPE html>
