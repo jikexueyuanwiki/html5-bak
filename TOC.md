@@ -10,7 +10,7 @@
   * [标签及实例](video_label.md)
   * [编解码工具](video_ffmpeg.md)
 * 3.音频
-  * [介绍](audio_intro.md.md)
+  * [介绍](audio_intro.md)
   * [标签及实例](audio_label.md)
 * 4.拖放 
   * [介绍](drag_intro.md)
