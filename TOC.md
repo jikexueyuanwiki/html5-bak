@@ -28,7 +28,7 @@
   * [使用geolocation API](geolocation_api.md)
 * 8.Web 存储
   * [介绍](web_intro.md)
-  * [localStroage](web_localStroage.md)
+  * [localStroage](web_localstroage.md)
   * [sessionstroage](web_sessionstroage.md)
 * 9.应用缓存 
   * [介绍](cache_intro.md)
